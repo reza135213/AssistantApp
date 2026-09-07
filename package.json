@@ -1,0 +1,15 @@
+{
+  "name": "ot-app",
+  "version": "1.0.0",
+  "description": "دستیار درمانگر - توان‌بخشی",
+  "scripts": {
+    "build": "echo 'no build step needed'"
+  },
+  "dependencies": {
+    "@capacitor/android": "latest",
+    "@capacitor/core": "latest"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "latest"
+  }
+}
