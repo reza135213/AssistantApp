@@ -3,6 +3,8 @@
   "appName": "دستیار درمانگر",
   "webDir": "www",
   "server": {
-    "androidScheme": "https"
+    "androidScheme": "https",
+    "url": "https://reza135213.github.io/assist/",
+    "cleartext": true
   }
 }
